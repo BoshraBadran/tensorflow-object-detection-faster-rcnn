@@ -1,86 +1,43 @@
-# [How to train an object detection model easy for free](https://www.dlology.com/blog/how-to-train-an-object-detection-model-easy-for-free/) | DLology Blog
+## Object Detection with MobileNetSSDv2 and Faster R-CNN and the TensorFlow Object Detection API
+
+Thannks to https://github.com/Tony607/object_detection_demo for the intial demo!
+
+## What is contained in this repo
+
+* A tutorial to train and use MobileNetSSDv2 with the TensorFlow Object Detection API
+* A tutorial to train and use Faster R-CNN with the TensorFlow Object Detection API 
+
+## What you will learn (MobileNetSSDv2)
+
+* How to load your custom image detection from Roboflow (here we use a public blood cell dataset with tfrecord)
+* Download base MobileNetSSDv2 model
+* Set up training environment
+* Configure training pipeline and train the model
+* Export the trained model's .pb inference graph
+* Use the saved model for inference
+
+## What you will learn (Faster R-CNN) 
+
+* How to load your custom image data from Roboflow (here we use a public blood cell dataset with tfrecord)
+* Download base pretrained Faster R-CNN model
+* Set up training environment
+* Configure training pipeline and train model
+* Export the trained model's .pb inference graph
+* Use the saved model for inference
+
+## Resources available
+
+* [This blog post for MobileNetSSDv2](https://blog.roboflow.ai/training-a-tensorflow-object-detection-model-with-a-custom-dataset/) walks through the tutorial
+* [This blog post for Faster R-CNN](https://blog.roboflow.ai/training-a-tensorflow-faster-r-cnn-object-detection-model-on-your-own-dataset/) walks through the tutorial
+* For the MobileNetSSDv2 model tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1wTMIrJhYsQdq_u7ROOkf0Lu_fsX5Mu8a)
+* For the Faster R-CNN  model tutorial [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1U3fkRu6-hwjk7wWIpg-iylL2u5T9t7rr#scrollTo=yhzxsJb3dpWq)
+* For reading purposes, for  MobileNetSSDv2, the notebook is saved here as Tutorial_Mobilenet.ipynb
+* For reading purposes, for Faster R-CNN, the notebook is also saved here as Tutorial_Faster_RCNN.ipynb
 
 
+## About Roboflow for Data Management
 
-## How to Run
+[Roboflow](https://roboflow.ai) makes managing, preprocessing, augmenting, and versioning datasets for computer vision seamless.
+Developers reduce 50% of their code when using Roboflow's workflow, automate annotation quality assurance, save training time, and increase model reproducibility.
 
-Easy way: run [this Colab Notebook](https://colab.research.google.com/github/Tony607/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb).
-
-Alternatively, if you want to use your images instead of ones comes with this repo.
-
-Require [Python 3.5+](https://www.python.org/ftp/python/3.6.4/python-3.6.4.exe) installed.
-### Fork and clone this repository to your local machine.
-```
-https://github.com/Tony607/object_detection_demo
-```
-### Install required libraries
-`pip3 install -r requirements.txt`
-
-
-### Step 1: Annotate some images
-- Save some photos with your custom object(s), ideally with `jpg` extension to `./data/raw` directory. (If your objects are simple like ones come with this repo, 20 images can be enough.)
-- Resize those photo to uniformed size. e.g. `(800, 600)` with
-```
-python resize_images.py --raw-dir ./data/raw --save-dir ./data/images --ext jpg --target-size "(800, 600)"
-```
-Resized images locate in `./data/images/`
-- Train/test split those files into two directories, `./data/images/train` and `./data/images/test`
-
-- Annotate resized images with [labelImg](https://tzutalin.github.io/labelImg/), generate `xml` files inside `./data/images/train` and `./data/images/test` folders. 
-
-*Tips: use shortcuts (`w`: draw box, `d`: next file, `a`: previous file, etc.) to accelerate the annotation.*
-
-- Commit and push your annotated images and xml files (`./data/images/train` and `./data/images/test`) to your forked repository.
-
-
-### Step 2: Open [Colab notebook](https://colab.research.google.com/github/Tony607/object_detection_demo/blob/master/tensorflow_object_detection_training_colab.ipynb)
-- Replace the repository's url to yours and run it.
-
-
-## How to run inference on frozen TensorFlow graph
-
-Requirements:
-- `frozen_inference_graph.pb` Frozen TensorFlow object detection model downloaded from Colab after training. 
-- `label_map.pbtxt` File used to map correct name for predicted class index downloaded from Colab after training.
-
-You can also opt to download my [copy](https://github.com/Tony607/object_detection_demo/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
-
-
-Run the following Jupyter notebook locally.
-```
-local_inference_test.ipynb
-```
-# [How to run TensorFlow object detection model faster with Intel Graphics](https://www.dlology.com/blog/how-to-run-tensorflow-object-detection-model-faster-with-intel-graphics/) | DLology Blog
-
-## How to deploy the trained custom object detection model with OpenVINO
-
-Requirements:
-- Frozen TensorFlow object detection model. i.e. `frozen_inference_graph.pb` downloaded from Colab after training.
-- The modified pipeline config file used for training. Also downloaded from Colab after training.
-
-You can also opt to download my [copy](https://github.com/Tony607/object_detection_demo/releases/download/V0.1/checkpoint.zip) of those files from the GitHub Release page.
-
-Run the following Jupyter notebook locally and follow the instructions in side.
-```
-deploy/openvino_convert_tf_object_detection.ipynb
-```
-## Run the benchmark
-
-Examples
-
-Benchmark SSD mobileNet V2 on GPU with FP16 quantized weights.
-```
-cd ./deploy
-python openvino_inference_benchmark.py\
-     --model-dir ./models/ssd_mobilenet_v2_custom_trained/FP16\
-     --device GPU\
-     --data-type FP16\
-     --img ../test/15.jpg
-```
-TensorFlow benchmark on cpu
-```
-python local_inference_test.py\
-     --model ./models/frozen_inference_graph.pb\
-     --img ./test/15.jpg\
-     --cpu
-```
+![alt text](https://i.imgur.com/WHFqYSJ.png)
