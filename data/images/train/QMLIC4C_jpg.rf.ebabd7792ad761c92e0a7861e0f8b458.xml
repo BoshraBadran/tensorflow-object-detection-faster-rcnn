@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>QMLIC4C_jpg.rf.ebabd7792ad761c92e0a7861e0f8b458.jpg</filename>
+	<path>QMLIC4C_jpg.rf.ebabd7792ad761c92e0a7861e0f8b458.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>110</xmin>
+			<xmax>513</xmax>
+			<ymin>110</ymin>
+			<ymax>582</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>GU9MF6_jpg.rf.38546fa930f8b4914e02811bfa5c20c9.jpg</filename>
+	<path>GU9MF6_jpg.rf.38546fa930f8b4914e02811bfa5c20c9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>food_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>220</xmin>
+			<xmax>422</xmax>
+			<ymin>172</ymin>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+</annotation>

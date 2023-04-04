@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>XFOLVT_jpg.rf.701d39d44eae61c088f0c9aa15045c69.jpg</filename>
+	<path>XFOLVT_jpg.rf.701d39d44eae61c088f0c9aa15045c69.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>food_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>28</xmin>
+			<xmax>592</xmax>
+			<ymin>374</ymin>
+			<ymax>572</ymax>
+		</bndbox>
+	</object>
+</annotation>

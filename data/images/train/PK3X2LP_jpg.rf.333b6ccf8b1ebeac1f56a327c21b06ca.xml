@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PK3X2LP_jpg.rf.333b6ccf8b1ebeac1f56a327c21b06ca.jpg</filename>
+	<path>PK3X2LP_jpg.rf.333b6ccf8b1ebeac1f56a327c21b06ca.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>115</xmin>
+			<xmax>641</xmax>
+			<ymin>337</ymin>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+</annotation>

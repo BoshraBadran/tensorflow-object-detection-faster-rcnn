@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>P4ITJ4C_jpg.rf.bda6937be7e17266673def244c1400ae.jpg</filename>
+	<path>P4ITJ4C_jpg.rf.bda6937be7e17266673def244c1400ae.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>164</xmin>
+			<xmax>500</xmax>
+			<ymin>382</ymin>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+</annotation>

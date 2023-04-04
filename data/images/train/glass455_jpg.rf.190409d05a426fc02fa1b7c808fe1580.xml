@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>glass455_jpg.rf.190409d05a426fc02fa1b7c808fe1580.jpg</filename>
+	<path>glass455_jpg.rf.190409d05a426fc02fa1b7c808fe1580.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>HQ9WEX2Z7_jpg.rf.2e54b4e57e3a098d52b0a00640dc4f39.jpg</filename>
+	<path>HQ9WEX2Z7_jpg.rf.2e54b4e57e3a098d52b0a00640dc4f39.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>5</xmin>
+			<xmax>250</xmax>
+			<ymin>63</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+</annotation>

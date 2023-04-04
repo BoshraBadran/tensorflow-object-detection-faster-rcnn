@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PY63210_jpg.rf.4a41fafba24eb69d272cb576c3f41517.jpg</filename>
+	<path>PY63210_jpg.rf.4a41fafba24eb69d272cb576c3f41517.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>61</xmin>
+			<xmax>595</xmax>
+			<ymin>351</ymin>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+</annotation>

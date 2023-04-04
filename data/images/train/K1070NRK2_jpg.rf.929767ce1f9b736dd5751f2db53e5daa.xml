@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>K1070NRK2_jpg.rf.929767ce1f9b736dd5751f2db53e5daa.jpg</filename>
+	<path>K1070NRK2_jpg.rf.929767ce1f9b736dd5751f2db53e5daa.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

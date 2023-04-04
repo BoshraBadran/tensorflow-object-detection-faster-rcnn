@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Z7RV8OO_jpg.rf.54cc15fa0d0b917f9ba2a5aba658bcd6.jpg</filename>
+	<path>Z7RV8OO_jpg.rf.54cc15fa0d0b917f9ba2a5aba658bcd6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>631</xmax>
+			<ymin>337</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

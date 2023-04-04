@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>QM5KCCB_jpg.rf.bd7ffa73f46995f46c5c011d2cedd0cc.jpg</filename>
+	<path>QM5KCCB_jpg.rf.bd7ffa73f46995f46c5c011d2cedd0cc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>226</xmin>
+			<xmax>474</xmax>
+			<ymin>226</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

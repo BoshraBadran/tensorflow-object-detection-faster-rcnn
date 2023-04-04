@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Y22T0H_jpg.rf.876d9bd200171daf261e1ca8ca0dd4f6.jpg</filename>
+	<path>Y22T0H_jpg.rf.876d9bd200171daf261e1ca8ca0dd4f6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>food_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>60</xmin>
+			<xmax>565</xmax>
+			<ymin>77</ymin>
+			<ymax>598</ymax>
+		</bndbox>
+	</object>
+</annotation>

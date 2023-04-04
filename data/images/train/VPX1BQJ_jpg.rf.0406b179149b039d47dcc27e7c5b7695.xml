@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>VPX1BQJ_jpg.rf.0406b179149b039d47dcc27e7c5b7695.jpg</filename>
+	<path>VPX1BQJ_jpg.rf.0406b179149b039d47dcc27e7c5b7695.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>628</xmax>
+			<ymin>47</ymin>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>OLOGUTTL1_jpg.rf.65b46b779bcc5471722ca0f59d7eaef7.jpg</filename>
+	<path>OLOGUTTL1_jpg.rf.65b46b779bcc5471722ca0f59d7eaef7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

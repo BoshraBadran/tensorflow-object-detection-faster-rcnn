@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>YFEEMUU_jpg.rf.d4c818660dfb91c79e4b6b9bfe1f27fd.jpg</filename>
+	<path>YFEEMUU_jpg.rf.d4c818660dfb91c79e4b6b9bfe1f27fd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>109</xmin>
+			<xmax>512</xmax>
+			<ymin>310</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+</annotation>

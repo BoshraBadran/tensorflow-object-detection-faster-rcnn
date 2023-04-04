@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>L3A3IKP_jpg.rf.1f4cfa79579f190ea55c3183d2ab313d.jpg</filename>
+	<path>L3A3IKP_jpg.rf.1f4cfa79579f190ea55c3183d2ab313d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>406</xmin>
+			<xmax>634</xmax>
+			<ymin>208</ymin>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

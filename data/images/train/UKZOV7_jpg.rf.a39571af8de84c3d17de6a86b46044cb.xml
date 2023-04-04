@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>UKZOV7_jpg.rf.a39571af8de84c3d17de6a86b46044cb.jpg</filename>
+	<path>UKZOV7_jpg.rf.a39571af8de84c3d17de6a86b46044cb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>GBV5IKL_jpg.rf.e34ef6de3e707fbce9c68cf228ea248d.jpg</filename>
+	<path>GBV5IKL_jpg.rf.e34ef6de3e707fbce9c68cf228ea248d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>388</xmin>
+			<xmax>641</xmax>
+			<ymin>17</ymin>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>

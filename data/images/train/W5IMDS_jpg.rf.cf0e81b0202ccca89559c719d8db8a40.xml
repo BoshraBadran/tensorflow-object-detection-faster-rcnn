@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>W5IMDS_jpg.rf.cf0e81b0202ccca89559c719d8db8a40.jpg</filename>
+	<path>W5IMDS_jpg.rf.cf0e81b0202ccca89559c719d8db8a40.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>food_waste</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>605</xmax>
+			<ymin>54</ymin>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+</annotation>

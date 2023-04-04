@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>PBJ96RX_jpg.rf.1e83915543687dd5a9d5a50ad73b7afb.jpg</filename>
+	<path>PBJ96RX_jpg.rf.1e83915543687dd5a9d5a50ad73b7afb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>100</xmin>
+			<xmax>513</xmax>
+			<ymin>327</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

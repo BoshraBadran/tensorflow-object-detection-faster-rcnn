@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>6O29EJSDI_jpg.rf.119e211cef49f305489b389a05584bea.jpg</filename>
+	<path>6O29EJSDI_jpg.rf.119e211cef49f305489b389a05584bea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>129</xmin>
+			<xmax>501</xmax>
+			<ymin>105</ymin>
+			<ymax>540</ymax>
+		</bndbox>
+	</object>
+</annotation>

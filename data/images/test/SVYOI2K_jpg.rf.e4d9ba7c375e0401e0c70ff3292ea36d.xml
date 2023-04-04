@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>SVYOI2K_jpg.rf.e4d9ba7c375e0401e0c70ff3292ea36d.jpg</filename>
+	<path>SVYOI2K_jpg.rf.e4d9ba7c375e0401e0c70ff3292ea36d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>148</xmax>
+			<ymin>219</ymin>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+</annotation>

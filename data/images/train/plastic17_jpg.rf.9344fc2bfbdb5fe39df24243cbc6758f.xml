@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>plastic17_jpg.rf.9344fc2bfbdb5fe39df24243cbc6758f.jpg</filename>
+	<path>plastic17_jpg.rf.9344fc2bfbdb5fe39df24243cbc6758f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>162</xmin>
+			<xmax>461</xmax>
+			<ymin>146</ymin>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+</annotation>

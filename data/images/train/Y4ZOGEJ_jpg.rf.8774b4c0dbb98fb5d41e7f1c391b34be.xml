@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Y4ZOGEJ_jpg.rf.8774b4c0dbb98fb5d41e7f1c391b34be.jpg</filename>
+	<path>Y4ZOGEJ_jpg.rf.8774b4c0dbb98fb5d41e7f1c391b34be.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>336</xmin>
+			<xmax>622</xmax>
+			<ymin>29</ymin>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+</annotation>

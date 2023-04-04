@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>VI12ZFQ_jpg.rf.35a3e5cc8a790cdea8781a11d455bb0b.jpg</filename>
+	<path>VI12ZFQ_jpg.rf.35a3e5cc8a790cdea8781a11d455bb0b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>434</xmin>
+			<xmax>638</xmax>
+			<ymin>297</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

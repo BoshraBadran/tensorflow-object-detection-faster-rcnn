@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>BBUR6CU_jpg.rf.ffe4933da81f3d088a6495265d436218.jpg</filename>
+	<path>BBUR6CU_jpg.rf.ffe4933da81f3d088a6495265d436218.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>4</xmin>
+			<xmax>508</xmax>
+			<ymin>349</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

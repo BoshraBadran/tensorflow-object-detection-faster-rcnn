@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>RZ77DBK_jpg.rf.23e968d172d5379b058a414866f77afd.jpg</filename>
+	<path>RZ77DBK_jpg.rf.23e968d172d5379b058a414866f77afd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>169</xmin>
+			<xmax>557</xmax>
+			<ymin>308</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

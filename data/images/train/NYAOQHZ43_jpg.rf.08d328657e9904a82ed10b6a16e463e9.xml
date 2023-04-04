@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>NYAOQHZ43_jpg.rf.08d328657e9904a82ed10b6a16e463e9.jpg</filename>
+	<path>NYAOQHZ43_jpg.rf.08d328657e9904a82ed10b6a16e463e9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

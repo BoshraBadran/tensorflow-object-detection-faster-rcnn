@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>VKAIWQY_jpg.rf.9109de454c69fb797c9190cfe5a9b333.jpg</filename>
+	<path>VKAIWQY_jpg.rf.9109de454c69fb797c9190cfe5a9b333.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>442</xmax>
+			<ymin>283</ymin>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

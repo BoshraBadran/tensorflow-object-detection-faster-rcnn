@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WN9E5FF_jpg.rf.305ecda6ea17d4044fa64dce725b49a2.jpg</filename>
+	<path>WN9E5FF_jpg.rf.305ecda6ea17d4044fa64dce725b49a2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>33</xmin>
+			<xmax>620</xmax>
+			<ymin>24</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>VNSV5XH_jpg.rf.f796e6376746bcc8326345def01d4fbb.jpg</filename>
+	<path>VNSV5XH_jpg.rf.f796e6376746bcc8326345def01d4fbb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>208</xmin>
+			<xmax>594</xmax>
+			<ymin>383</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+</annotation>

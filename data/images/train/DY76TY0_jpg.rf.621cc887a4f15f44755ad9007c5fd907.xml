@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>DY76TY0_jpg.rf.621cc887a4f15f44755ad9007c5fd907.jpg</filename>
+	<path>DY76TY0_jpg.rf.621cc887a4f15f44755ad9007c5fd907.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>15</xmin>
+			<xmax>520</xmax>
+			<ymin>207</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

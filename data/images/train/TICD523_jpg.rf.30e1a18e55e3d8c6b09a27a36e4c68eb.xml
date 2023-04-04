@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>TICD523_jpg.rf.30e1a18e55e3d8c6b09a27a36e4c68eb.jpg</filename>
+	<path>TICD523_jpg.rf.30e1a18e55e3d8c6b09a27a36e4c68eb.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>17</xmin>
+			<xmax>490</xmax>
+			<ymin>92</ymin>
+			<ymax>627</ymax>
+		</bndbox>
+	</object>
+</annotation>

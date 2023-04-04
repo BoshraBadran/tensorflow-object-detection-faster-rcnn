@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>THCNESV_jpg.rf.92d54f6b190d689c3f5af7872863cce4.jpg</filename>
+	<path>THCNESV_jpg.rf.92d54f6b190d689c3f5af7872863cce4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>364</xmin>
+			<xmax>626</xmax>
+			<ymin>262</ymin>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

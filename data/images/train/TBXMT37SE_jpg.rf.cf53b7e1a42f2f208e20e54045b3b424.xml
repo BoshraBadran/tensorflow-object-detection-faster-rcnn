@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>TBXMT37SE_jpg.rf.cf53b7e1a42f2f208e20e54045b3b424.jpg</filename>
+	<path>TBXMT37SE_jpg.rf.cf53b7e1a42f2f208e20e54045b3b424.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bag</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>204</xmin>
+			<xmax>526</xmax>
+			<ymin>75</ymin>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>metal66_jpg.rf.02c2cf8f5728b58610107aed2cc92e23.jpg</filename>
+	<path>metal66_jpg.rf.02c2cf8f5728b58610107aed2cc92e23.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>178</xmin>
+			<xmax>514</xmax>
+			<ymin>178</ymin>
+			<ymax>641</ymax>
+		</bndbox>
+	</object>
+</annotation>

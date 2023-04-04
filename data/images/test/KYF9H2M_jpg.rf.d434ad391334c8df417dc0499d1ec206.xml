@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>KYF9H2M_jpg.rf.d434ad391334c8df417dc0499d1ec206.jpg</filename>
+	<path>KYF9H2M_jpg.rf.d434ad391334c8df417dc0499d1ec206.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>29</xmin>
+			<xmax>631</xmax>
+			<ymin>9</ymin>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+</annotation>

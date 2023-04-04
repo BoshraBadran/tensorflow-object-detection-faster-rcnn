@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>P44L1IX_jpg.rf.c912b46826b95b9044dea4079b4973bf.jpg</filename>
+	<path>P44L1IX_jpg.rf.c912b46826b95b9044dea4079b4973bf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heap</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>21</xmin>
+			<xmax>631</xmax>
+			<ymin>184</ymin>
+			<ymax>626</ymax>
+		</bndbox>
+	</object>
+</annotation>

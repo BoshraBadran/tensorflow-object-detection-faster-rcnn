@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>EYM6HMQ12_jpg.rf.6f06232c6c2e6fb2dd792bb0cee2586c.jpg</filename>
+	<path>EYM6HMQ12_jpg.rf.6f06232c6c2e6fb2dd792bb0cee2586c.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

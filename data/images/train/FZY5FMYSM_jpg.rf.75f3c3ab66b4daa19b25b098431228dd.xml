@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>FZY5FMYSM_jpg.rf.75f3c3ab66b4daa19b25b098431228dd.jpg</filename>
+	<path>FZY5FMYSM_jpg.rf.75f3c3ab66b4daa19b25b098431228dd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
